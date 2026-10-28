@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- TODO: prefix each <loc> with the site URL once a domain or project name is set. -->
+<!-- Replace https://complianceplus.uk with the live domain if it differs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>/</loc></url>
-  <url><loc>/services</loc></url>
-  <url><loc>/expertise</loc></url>
-  <url><loc>/blog</loc></url>
-  <url><loc>/blog/aml-training-that-people-remember</loc></url>
-  <url><loc>/blog/sra-aml-reviews</loc></url>
-  <url><loc>/blog/fca-is-your-friend</loc></url>
-  <url><loc>/blog/matter-risk-assessment</loc></url>
-  <url><loc>/blog/client-risk-assessment-form</loc></url>
-  <url><loc>/blog/source-of-wealth-narrative</loc></url>
-  <url><loc>/contact</loc></url>
-  <url><loc>/privacy</loc></url>
-  <url><loc>/terms</loc></url>
+  <url><loc>https://complianceplus.uk/</loc></url>
+  <url><loc>https://complianceplus.uk/services</loc></url>
+  <url><loc>https://complianceplus.uk/expertise</loc></url>
+  <url><loc>https://complianceplus.uk/blog</loc></url>
+  <url><loc>https://complianceplus.uk/blog/aml-training-that-people-remember</loc></url>
+  <url><loc>https://complianceplus.uk/blog/sra-aml-reviews</loc></url>
+  <url><loc>https://complianceplus.uk/blog/fca-is-your-friend</loc></url>
+  <url><loc>https://complianceplus.uk/blog/matter-risk-assessment</loc></url>
+  <url><loc>https://complianceplus.uk/blog/client-risk-assessment-form</loc></url>
+  <url><loc>https://complianceplus.uk/blog/source-of-wealth-narrative</loc></url>
+  <url><loc>https://complianceplus.uk/contact</loc></url>
+  <url><loc>https://complianceplus.uk/privacy</loc></url>
+  <url><loc>https://complianceplus.uk/terms</loc></url>
 </urlset>
